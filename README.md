@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Ruby on Rails developer with 8 years of experience and a love of the backend looking for my next remote position.
+I'm a Ruby on Rails developer with 9 years of experience and a love of the backend looking for my next remote position.
 
 <!--
 **opticbob/opticbob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
